@@ -11,3 +11,4 @@ button_pobierz.classList.remove("ukryty");
 	img_monster.src = "https://app.pixelencounter.com/api/basic/monsters/"+random;
 	button_pobierz.href = "https://app.pixelencounter.com/api/basic/monsters/"+random;
 }
+
